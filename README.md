@@ -56,5 +56,3 @@ If you are simply interested in using FinBERT for downstream sentiment classific
         archivePrefix={arXiv},
         }
 
-## Contact
-Please post a Github issue or contact [imyiyang@ust.hk](imyiyang@ust.hk) if you have any questions.
