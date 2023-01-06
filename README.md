@@ -44,7 +44,7 @@ There are 4 kinds of vocab to choose from: `FinVocab-Uncased`, `FinVocab-Cased`,
 
 # 2. Fine-tuned model
 ### Using FinBERT for financial sentiment classification
-If you are simply interested in using FinBERT for downstream sentiment classification task, we have a fine-tuned FinBERT for your use. This fine-tuned FinBERT model is fine-tuned on 10,000 analyst statements for tone prediction task (positive, negative, neutral). We provide a [Jupyter notebook](https://github.com/yya518/FinBERT/blob/master/FinBert%20Model%20Example.ipynb) to show how you can use it with your own data. For comparison purpose, we also provided a pre-trained Naive Bayes Model.  The fine-tuned FinBERT has significantly better performance than the Naive Bayes model, and it can gauge finanical text tone with high accuracy.
+If you are simply interested in using FinBERT for downstream sentiment classification task, we have a fine-tuned FinBERT for your use. This fine-tuned FinBERT model is fine-tuned on 10,000 analyst statements for tone prediction task (positive, negative, neutral). The fine-tuned FinBERT has significantly better performance than the Naive Bayes model, and it can gauge finanical text tone with high accuracy.
 
 
 ## Citation
